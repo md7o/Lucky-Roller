@@ -1,16 +1,17 @@
-# lucky_roller
+# Lucky Roller App
 
-A new Flutter project.
+this app was build using fluttr 
 
-## Getting Started
+The app is a simple mini game
 
-This project is a starting point for a Flutter application.
+## OverView
 
-A few resources to get you started if this is your first Flutter project:
+This wheel has ready made sections like series, soccer teams, fast food restaurants, etc. You can also write your own wheel and spin it, so for this special roller section I use my local cell store to save all writes 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/102732045/207468291-b16eefce-fd45-43b8-930f-8a6becd6bbf3.mp4"  width="300"/> 
+
+
+
+## 🔗 Twitter profile 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Md7oHe)
